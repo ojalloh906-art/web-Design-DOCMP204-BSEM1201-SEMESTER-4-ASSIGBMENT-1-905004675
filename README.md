@@ -13,10 +13,6 @@ Option 1: Download ZIP
 	1.	Click the Download ZIP button (if using GitHub)
 	2.	Extract the folder to your computer
 
-Option 2: Clone Repository (Advanced)
-
-git clone https://github.com/your-username/your-repo-name.git
-
 How to Run the Project
 	1.	Open the project folder
 	2.	Locate the file:
